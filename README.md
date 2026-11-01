@@ -2,7 +2,7 @@
 
 > A modern, responsive, and feature-rich clinic management and patient appointment portal built with HTML5, Tailwind CSS, and Vanilla JavaScript. Designed to demonstrate practical business solutions, clean form validation, and accessible medical service scheduling.
 
-![Project Banner Preview](https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&w=1200&q=80)
+
 
 ---
 
